@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1da4351-6d24-4de6-bd0d-a606e443cd76" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/common.group/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/common.group/_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/layouts.group/_html-wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/layouts.group/_html-wrapper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/current_version" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/current_version" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/1" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/10" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/11" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/2" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/3" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/4" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/5" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/6" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/7" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/8" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/9" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/fieldtype/channel-field-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/fieldtype/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/rss_parser/cpnews_feed/ada66bd1b982fd32b17e195e2317cf6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/rss_parser/cpnews_feed/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/cache/software_registration" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/software_registration" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/config/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/templates/default_site/common.group/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/templates/default_site/common.group/_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/templates/default_site/home.group/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/templates/default_site/home.group/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/user/templates/default_site/layouts.group/_html-wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/templates/default_site/layouts.group/_html-wrapper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/user/site/default/asset/style/settings/_color.less" beforeDir="false" afterPath="$PROJECT_DIR$/themes/user/site/default/asset/style/settings/_color.less" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,19 +14,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.min.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="-2671">
+              <caret line="1789" column="22" selection-start-line="1789" selection-start-column="22" selection-end-line="1789" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_html-wrapper.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_html-wrapper.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
+            <state relative-caret-position="563">
               <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -70,8 +39,8 @@
       <file leaf-file-name="pi.devq.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+            <state relative-caret-position="663">
+              <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -109,6 +78,9 @@
       <find>header.</find>
       <find>header.full</find>
       <find>quicksand</find>
+      <find>nav</find>
+      <find>.5</find>
+      <find>.main-nav</find>
     </findStrings>
     <dirStrings>
       <dir>C:\wamp64\www</dir>
@@ -132,9 +104,9 @@
         <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/dev_q/addon.setup.php" />
         <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.dev_q.php" />
         <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php" />
+        <option value="$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html" />
         <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" />
         <option value="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" />
-        <option value="$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html" />
       </list>
     </option>
   </component>
@@ -147,11 +119,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="182" />
-    <option name="y" value="-9" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="177" />
+    <option name="y" value="209" />
+    <option name="width" value="1688" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -191,15 +163,6 @@
               <item name="EllisLab" type="462c0819:PsiDirectoryNode" />
               <item name="Addons" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="system" type="462c0819:PsiDirectoryNode" />
-              <item name="ee" type="462c0819:PsiDirectoryNode" />
-              <item name="EllisLab" type="462c0819:PsiDirectoryNode" />
-              <item name="Addons" type="462c0819:PsiDirectoryNode" />
-              <item name="xml_encode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -235,15 +198,16 @@
       <option name="presentableId" value="Default" />
       <updated>1528403102555</updated>
       <workItem from="1528403103701" duration="689000" />
-      <workItem from="1528403804098" duration="13837000" />
+      <workItem from="1528403804098" duration="18326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14526000" />
+    <option name="totallyTimeSpent" value="19015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="177" y="209" width="1688" height="774" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -251,7 +215,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1812201" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -340,6 +304,17 @@
     <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/emoticon/addon.setup.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/xml_encode/addon.setup.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -356,26 +331,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        <state relative-caret-position="663">
+          <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2671">
+          <caret line="1789" column="22" selection-start-line="1789" selection-start-column="22" selection-end-line="1789" selection-end-column="22" />
         </state>
       </provider>
     </entry>
