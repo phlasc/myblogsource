@@ -1787,7 +1787,7 @@ h1 .btn:hover {
     }
 
     header .main-nav a {
-    rgba(255, 255, 255, .5);
+    background-color:rgba(255, 255, 255, .5);
         border: 1px solid #000;
         color: #000;
         display: block;
@@ -1801,9 +1801,6 @@ h1 .btn:hover {
         box-shadow: 0 8px 6px -6px #999999;
     }
 
-    header .main-nav a:first-letter {
-        font-weight: 700
-    }
 
     header .main-nav a.act, header .main-nav a:hover {
         background-color: #FFFFFF;

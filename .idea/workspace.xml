@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1da4351-6d24-4de6-bd0d-a606e443cd76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="default.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2671">
-              <caret line="1789" column="22" selection-start-line="1789" selection-start-column="22" selection-end-line="1789" selection-end-column="22" />
+            <state relative-caret-position="219">
+              <caret line="1789" column="43" selection-start-line="1789" selection-start-column="43" selection-end-line="1789" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -39,26 +39,8 @@
       <file leaf-file-name="pi.devq.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="408">
               <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addon.setup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addon.setup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/xml_encode/addon.setup.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -81,6 +63,7 @@
       <find>nav</find>
       <find>.5</find>
       <find>.main-nav</find>
+      <find>small-menu</find>
     </findStrings>
     <dirStrings>
       <dir>C:\wamp64\www</dir>
@@ -198,12 +181,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528403102555</updated>
       <workItem from="1528403103701" duration="689000" />
-      <workItem from="1528403804098" duration="18326000" />
+      <workItem from="1528403804098" duration="20066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19015000" />
+    <option name="totallyTimeSpent" value="20755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="177" y="209" width="1688" height="774" extended-state="0" />
@@ -304,17 +287,6 @@
     <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/emoticon/addon.setup.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/xml_encode/addon.setup.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -331,15 +303,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="408">
           <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2671">
-          <caret line="1789" column="22" selection-start-line="1789" selection-start-column="22" selection-end-line="1789" selection-end-column="22" />
+        <state relative-caret-position="219">
+          <caret line="1789" column="43" selection-start-line="1789" selection-start-column="43" selection-end-line="1789" selection-end-column="43" />
         </state>
       </provider>
     </entry>
