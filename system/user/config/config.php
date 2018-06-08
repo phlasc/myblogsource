@@ -8,8 +8,8 @@ $config['save_tmpl_files'] = 'y';
 // https://docs.expressionengine.com/latest/general/system_configuration_overrides.html
 
 $config['app_version'] = '4.3.0';
-$config['encryption_key'] = '2149564275fdd20895fd64835d61af86db05b5f2';
-$config['session_crypt_key'] = 'ba4ae5c68701a09904781d44e4dcc2848333458d';
+$config['encryption_key'] = '056e86aba31a63b7977ae12915356b4c9af0b969';
+$config['session_crypt_key'] = 'f252e35c4c71970394b5b71110b80b834bf8a61f';
 $config['database'] = array(
 	'expressionengine' => array(
 		'hostname' => 'localhost',

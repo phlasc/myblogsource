@@ -10,29 +10,81 @@
 {layout:set name='scripts'}{/layout:set}
 
 
+
 <style>
-.parallax { 
-    /* The image used */
-    background-image: url("http://localhost/themes/user/site/default/asset/img/home/ocean.jpg");
-
-    /* Set a specific height */
-    height: 500px; 
-
-    /* Create the parallax scrolling effect */
+.parallax1 { 
+    background-image: url("themes/user/site/default/asset/img/imagesbg/IMG_0195.png");
     background-attachment: fixed;
-    background-position: center;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+    overflow: hidden;
+
+
+    background-position: center center;
 	background-color:gray;
     background-repeat: no-repeat;
-    background-size: cover;
-	-webkit-clip-path: polygon(0 0, 100% 0, 100% 89%, 0 100%);
-	clip-path: polygon(0 0, 100% 0, 100% 89%, 0 100%);
+	margin-bottom:50px;
+	margin-top:-50px;
+-webkit-clip-path: polygon(0 0, 100% 0, 100% 84%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 100% 84%, 0% 100%);
+}
+.parallax2 { 
+    background-image: url("themes/user/site/default/asset/img/imagesbg/IMG_0197.png");
+    background-attachment: fixed;
+    background-position: center center;
+	height: 500px;
+	background-size:cover;
+	background-color:gray;
+    background-repeat: no-repeat;
+	margin-bottom:50px;
+	margin-top:50px;
+-webkit-clip-path: polygon(0 16%, 100% 0, 100% 84%, 0% 100%);
+clip-path: polygon(0 16%, 100% 0, 100% 84%, 0% 100%);
+}
+.parallax3 { 
+    background-image: url("themes/user/site/default/asset/img/imagesbg/IMG_0733.png");
+    background-attachment: fixed;
+    background-position: center center;
+	height: 500px;
+	background-size:cover;
+	background-color:gray;
+    background-repeat: no-repeat;
+	margin-bottom:50px;
+	margin-top:50px;
+-webkit-clip-path: polygon(0 16%, 100% 0, 100% 84%, 0% 100%);
+clip-path: polygon(0 16%, 100% 0, 100% 84%, 0% 100%);
+}
+
+.title22 {
+    text-align: center;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+@media only screen and (max-width: 600px) {
+.parallax1, .parallax2, .parallax3  {
+        background-attachment:scroll;
+    }
+}
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+.parallax1 .parallax2 .parallax3  {
+        background-attachment:scroll;
+
+}
 }
 </style>
+	<div class="parallax1"><div class="title22">For what has been lost, and yet to be found. - Trey</div></div>
 
-<!-- Container element -->
 
 
-<div class="parallax"></div>
 
 
 <section class="row content home pad">
@@ -56,11 +108,17 @@
 			{/exp:file:entries}
 		</figure>
 	</section>
-	<section class="w-16">
+	</section>
+	<div class="parallax2"></div>
+	
+	
+	<section class="w-16 row content home pad">
 		<h1>Recent Blog Posts <a class="btn all" href="{path='{p_url}'}">All Posts</a></h1>
 	</section>
-	<section class="w-8">
-
+	
+	
+	<section class="w-16 row content home pad">
+<section class="w-8">
 		<div class="entries">
 			{exp:channel:entries channel='{ch}' disable='{ch_disable}' limit='4'}
 				{!-- listing as a snippet, as it's used through more than one template --}
@@ -73,7 +131,7 @@
 				{/if}
 			{/exp:channel:entries}
 		</div>
-	</section>
+</section>
 	<section class="w-8">
 		<div class="entries">
 			{!-- using the offset='' parameter here to start the listing on the 5th item. which allows us to split it into two columns without any wonky math --}
@@ -89,4 +147,39 @@
 			{/exp:channel:entries}
 		</div>
 	</section>
+	</section>
+	
+	
+<div class="parallax3"></div>
+
+	<section class="w-16 row content home pad">
+<section class="w-8">
+		<div class="entries">
+			{exp:channel:entries channel='{ch}' disable='{ch_disable}' limit='4'}
+				{!-- listing as a snippet, as it's used through more than one template --}
+				{snp_blog_list}
+				{!-- no results --}
+				{if no_results}
+					<div class="alert warn no-results">
+						<p>{gv_entries_none}</p>
+					</div>
+				{/if}
+			{/exp:channel:entries}
+		</div>
 </section>
+	<section class="w-8">
+		<div class="entries">
+			{!-- using the offset='' parameter here to start the listing on the 5th item. which allows us to split it into two columns without any wonky math --}
+			{exp:channel:entries channel='{ch}' disable='{ch_disable}' limit='4' offset='4'}
+				{!-- listing as a snippet, as it's used through more than one template --}
+				{snp_blog_list}
+				{!-- no results --}
+				{if no_results}
+					<div class="alert warn no-results">
+						<p>{gv_entries_none}</p>
+					</div>
+				{/if}
+			{/exp:channel:entries}
+		</div>
+	</section>
+	</section>

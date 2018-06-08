@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4edd3eac-f140-4d1a-ae1a-78d706d6a638" name="Default" comment="" />
+    <list default="true" id="d1da4351-6d24-4de6-bd0d-a606e443cd76" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/common.group/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/common.group/_header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/layouts.group/_html-wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/layouts.group/_html-wrapper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/current_version" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/current_version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/1" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/10" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/11" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/2" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/3" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/4" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/5" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/6" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/7" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/8" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/9" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/default_site/EllisLab_ExpressionEngine_Model_Channel_ChannelField/9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/fieldtype/channel-field-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/default_site/fieldtype/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/rss_parser/cpnews_feed/ada66bd1b982fd32b17e195e2317cf6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/rss_parser/cpnews_feed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/cache/software_registration" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/cache/software_registration" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/templates/default_site/common.group/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/templates/default_site/common.group/_header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/templates/default_site/home.group/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/templates/default_site/home.group/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/user/templates/default_site/layouts.group/_html-wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/system/user/templates/default_site/layouts.group/_html-wrapper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/user/site/default/asset/style/settings/_color.less" beforeDir="false" afterPath="$PROJECT_DIR$/themes/user/site/default/asset/style/settings/_color.less" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,18 +45,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.less">
+      <file leaf-file-name="default.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2053" />
+            <state relative-caret-position="306">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.min.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
+      <file leaf-file-name="_html-wrapper.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="502" column="22" selection-start-line="502" selection-start-column="22" selection-end-line="502" selection-end-column="22" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pi.devq.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addon.setup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addon.setup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/xml_encode/addon.setup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -31,16 +98,43 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>section</find>
+      <find>website</find>
+      <find>Website</find>
+      <find>BODY</find>
+      <find>h1</find>
+      <find>font</find>
+      <find>body</find>
       <find>content</find>
+      <find>row</find>
+      <find>header.</find>
+      <find>header.full</find>
+      <find>quicksand</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/ee/site/default/asset/style/settings/_color.less" />
-        <option value="$PROJECT_DIR$/themes/user/site/default/asset/style/settings/_color.less" />
+        <option value="$PROJECT_DIR$/system/user/templates/default_site/layouts.group/_html-wrapper.html" />
+        <option value="$PROJECT_DIR$/system/user/templates/default_site/common.group/_header.html" />
+        <option value="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/layouts.group/_html-wrapper.html" />
+        <option value="$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/common.group/_header.html" />
+        <option value="$PROJECT_DIR$/system/user/templates/LaVidaDev/common.group/_header.html" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devquotes/devquotes.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devquotes/pi.dev_quotes.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devquotes/addon.setup.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/dev_q/pi.dev_q.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/dev_q/addon.setup.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.dev_q.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php" />
+        <option value="$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php" />
         <option value="$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css" />
+        <option value="$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html" />
       </list>
     </option>
   </component>
@@ -53,9 +147,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="419" />
-    <option name="y" value="125" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="182" />
+    <option name="y" value="-9" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -68,64 +162,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="ee" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="ee" type="462c0819:PsiDirectoryNode" />
+              <item name="EllisLab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="ee" type="462c0819:PsiDirectoryNode" />
+              <item name="EllisLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Addons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-              <item name="default.less" type="620a8d5e:NestingTreeNode" />
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="ee" type="462c0819:PsiDirectoryNode" />
+              <item name="EllisLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Addons" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_encode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +211,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,40 +229,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4edd3eac-f140-4d1a-ae1a-78d706d6a638" name="Default" comment="" />
-      <created>1527941178415</created>
+      <changelist id="d1da4351-6d24-4de6-bd0d-a606e443cd76" name="Default" comment="" />
+      <created>1528403102555</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527941178415</updated>
-      <workItem from="1527941179562" duration="6079000" />
+      <updated>1528403102555</updated>
+      <workItem from="1528403103701" duration="689000" />
+      <workItem from="1528403804098" duration="13837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6079000" />
+    <option name="totallyTimeSpent" value="14526000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="419" y="125" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,75 +273,109 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ee/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ee/site/default/asset/style/default.less">
+    <entry file="file://$PROJECT_DIR$/system/user/templates/default_site/common.group/_header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ee/site/default/asset/style/base/_body.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ee/site/default/asset/style/base/_blockquote.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ee/site/default/asset/style/base/_fields.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="510">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ee/site/default/asset/style/settings/_color.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/settings/_color.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/trumps/_links-external.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/img/op.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/img/home/lake.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/base/_headings.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/base/_header.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/base/_label.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/base/_pre.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/base/_table.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/components/_main-nav.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.less">
+    <entry file="file://$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/layouts.group/_html-wrapper.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2053" />
+        <state relative-caret-position="208">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/common.group/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/installer_4.3.0/site_themes/default/templates/blog.group/_comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/common.group/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/default_site/layouts.group/_html-wrapper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/default_site/home.group/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/emoji/addon.setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/emoticon/addon.setup.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/xml_encode/addon.setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/addon.setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/ee/EllisLab/Addons/devq/pi.devq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/user/site/default/asset/style/default.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="502" column="22" selection-start-line="502" selection-start-column="22" selection-end-line="502" selection-end-column="22" />
+        <state relative-caret-position="306">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/user/templates/LaVidaDev/layouts.group/_html-wrapper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="140" selection-start-line="59" selection-start-column="140" selection-end-line="59" selection-end-column="140" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

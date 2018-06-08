@@ -1,6 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&effect=3d');
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+.parallaxMain {
+    padding:20px;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+    overflow: hidden;
+    background-position: center center;
+    background-color:gray;
+    background-repeat: no-repeat;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 84%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 84%, 0% 100%);
+}
+.parallaxAdd {
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+    overflow: hidden;
+    background-position: center center;
+    background-color:gray;
+    background-repeat: no-repeat;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 84%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 84%, 0% 100%);
+}
+.title22 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    text-shadow: 4px 4px 4px #FFFFFF;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    top: 35%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
 @viewport {
     width: extend-to-zoom;
-    zoom: 1
+    zoom: 1;
 }
 
 @font-face {
@@ -148,6 +190,7 @@ html {
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, figure img {
     display: block
+
 }
 
 address, body, button, fieldset, figure, h1, h2, h3, h4, h5, h6, html, input, ol, p, pre, section, select, ul {
@@ -176,7 +219,7 @@ address {
 }
 
 body {
-    font: normal normal 14px Helvetica, Arial, Sans-Serif
+    font: normal normal 14px Helvetica, Arial, Sans-Serif;
 }
 
 code, kbd, pre, samp {
@@ -492,22 +535,16 @@ figure:first-of-type {
 }
 
 footer {
-    margin: 0 auto;
-    padding: 0 70px 70px
-    -webkit-clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
-    clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
-    background-color:lightgrey;
+    z-index:1001;
 }
 
+
 header.full {
-    background-color: black;
-    padding: 40px 0;
-    position:fixed;
-    top:0px;
+    background-color: transparent;
+    font-family: 'Quicksand', sans-serif;
+    padding-bottom:40px;
     width:100%;
-    z-index:100;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
+    z-index:1001;
 
 }
 
@@ -537,7 +574,9 @@ header a:hover {
         float: right
     }
 }
-
+div.content section{
+    margin-top:50px;
+}
 h1 {
     font-size: 32px
 }
@@ -1519,7 +1558,8 @@ h1 .btn:hover {
 }
 
 .content {
-    padding: 60px 0
+    padding-top:20px;
+    padding-bottom: 80px;
 }
 
 .cycle-slideshow {
@@ -1556,16 +1596,16 @@ h1 .btn:hover {
 }
 
 .footer-content {
-    border-top: 2px solid white;
-    height:100px;
+    margin: 0 auto;
+    max-width:600px;
 }
 
 .footer-content p {
-    margin: 0
+
+
 }
 
 .footer-content .main-nav {
-    border-bottom: 1px solid #e4e4e4;
     display: block;
     margin: 20px 0;
     padding-bottom: 20px
@@ -1573,7 +1613,6 @@ h1 .btn:hover {
 
 @media screen and (min-width: 750px) {
     .footer-content {
-        padding: 20px 0
     }
 
     .footer-content .main-nav {
@@ -1699,9 +1738,10 @@ h1 .btn:hover {
     background-color: rgba(255, 255, 255, .1);
     display: block;
     margin-top: 20px;
+    margin-bottom: 50px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
-    border-radius: 3px
+    border-radius: 3px;
 }
 
 .main-nav.menu-open li {
@@ -1714,15 +1754,11 @@ h1 .btn:hover {
 }
 
 .main-nav.menu-open li:first-child a.act, .main-nav.menu-open li:first-child a:hover {
-    -moz-border-radius: 3px 3px 0 0;
-    -webkit-border-radius: 3px 3px 0 0;
-    border-radius: 3px 3px 0 0
+
 }
 
 .main-nav.menu-open li:last-child a.act, .main-nav.menu-open li:last-child a:hover {
-    -moz-border-radius: 0 0 3px 3px;
-    -webkit-border-radius: 0 0 3px 3px;
-    border-radius: 0 0 3px 3px
+
 }
 
 .main-nav.menu-open a {
@@ -1751,17 +1787,14 @@ h1 .btn:hover {
     }
 
     header .main-nav a {
-        background-color: rgba(255, 255, 255, .1);
-        border: 0;
+        background-color:#000000;
+        border: 1px solid white;
         color: #fff;
         display: block;
         font-weight: 400;
         letter-spacing: 1px;
         padding: 5px 10px;
         text-decoration: none;
-        -moz-border-radius: 3px;
-        -webkit-border-radius: 3px;
-        border-radius: 3px
     }
 
     header .main-nav a:first-letter {
@@ -1769,8 +1802,8 @@ h1 .btn:hover {
     }
 
     header .main-nav a.act, header .main-nav a:hover {
-        background-color: rgba(255, 255, 255, .8);
-        color: #36c
+        background-color: #FFFFFF;
+        color: #000000;
     }
 
     footer .main-nav a.act {
@@ -1813,9 +1846,6 @@ h1 .btn:hover {
 .menu-link.act, .menu-link:hover {
     background-color: #36c;
     color: #fff;
-    -moz-box-shadow: 0 2px 0 0 #24478f;
-    -webkit-box-shadow: 0 2px 0 0 #24478f;
-    box-shadow: 0 2px 0 0 #24478f
 }
 
 .no-results {
